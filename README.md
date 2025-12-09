@@ -1,4 +1,4 @@
-# Agentic AI Product Work – Case Studies & Assets
+# Agentic AI for Transaction Categorization
 
 This repository showcases real product work in agentic AI:
 - Designing agents
