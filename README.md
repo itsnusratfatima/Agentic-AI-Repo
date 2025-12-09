@@ -1,3 +1,5 @@
+AI transaction categorization — automatically assigns financial transactions into chart-of-account categories, improving accuracy and speed
+
 # Agentic AI for Transaction Categorization
 
 This repository showcases real product work in agentic AI:
