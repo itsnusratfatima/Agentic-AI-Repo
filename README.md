@@ -1,10 +1,8 @@
-# agentic-ai-product-execution
+# Agentic AI 
 
-This repository showcases agentic AI product execution work delivered as a Product Manager.
 
 ## Repository Structure
 
-```
 agentic-ai-product-execution/
 │
 ├── README.md
